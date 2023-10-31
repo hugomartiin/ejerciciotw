@@ -2,40 +2,21 @@
     font-family: "Segoe UI",Helvetica,Arial,sans-serif;
 }
 
-#main {
-    width: 80%;
+#container {
+    width: 90%;
     margin: 0 auto;
-    clear: both;
-}
-
-.container {
-    background-color: #FFF;
-    color: #0F1419;
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 10%;
-
-    font-size: 16px;
 }
 
 
 #left {
-
-    width: 30%;
-    float: left;
-    margin-top: 15%;
-    margin-left: 10%;
-
+    display: flex;
+    background-color:aquamarine;
 }
 
 #right {
-
-    float: right;
-    width: 50%;
-    margin-top: 2%;
-    margin-bottom: 5%;
-
-
+    display: flex;
+    row
+    background-color: burlywood;
 }
 
 #boton1 {
