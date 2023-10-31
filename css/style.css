@@ -1,0 +1,109 @@
+* {
+    font-family: "Segoe UI",Helvetica,Arial,sans-serif;
+}
+
+#main {
+    width: 80%;
+    margin: 0 auto;
+    clear: both;
+}
+
+.container {
+    background-color: #FFF;
+    color: #0F1419;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10%;
+
+    font-size: 16px;
+}
+
+
+#left {
+
+    width: 30%;
+    float: left;
+    margin-top: 15%;
+    margin-left: 10%;
+
+}
+
+#right {
+
+    float: right;
+    width: 50%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+
+
+}
+
+#boton1 {
+
+    border: groove;
+    width: 50%;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+#boton2 {
+    margin-top: 30px;
+    border: groove;
+    width: 50%;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+#boton3 {
+    margin-top: 30px;
+    border: groove;
+    width: 50%;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: rgb(5, 175, 197);
+    text-align: center;
+
+}
+
+.titulo {
+    color: black;
+    font-size: 70px;
+
+}
+
+.subtitulo {
+    color: black;
+    font-size: 30px;
+}
+
+.boton {
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+
+}
+
+.boton1 {
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+
+
+
+}
+
+.txt-center {
+    margin-top: 10px;
+    margin-left: 30%;
+}
+
+.text {
+    width: 300px;
+    font-size: small;
+}
